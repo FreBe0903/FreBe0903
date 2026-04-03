@@ -1,7 +1,7 @@
 # Hi, I'm Federico Beni 👋
 
-🎓 MSc in Computer Engineering @ Università Politecnica delle Marche  
-🤖 Interested in Machine Learning, Deep Learning & Computer Vision  
+MSc in Computer Engineering @ Università Politecnica delle Marche  
+Interested in Machine Learning, Deep Learning & Computer Vision  
 
 ---
 
