@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Federico Beni 👋
 
-<!--
-**FreBe0903/FreBe0903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Computer Engineering @ Università Politecnica delle Marche  
+🤖 Interested in Machine Learning, Deep Learning & Computer Vision  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+
+[Visit my portfolio](https://FreBe0903.github.io)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/FreBe0903  
+- LinkedIn: https://linkedin.com/in/federico-beni 
+- Email: federicobeni01@gmail.com 
