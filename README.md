@@ -7,7 +7,7 @@ Interested in Machine Learning, Deep Learning & Computer Vision
 
 ## Portfolio
 
-[Visit my portfolio](https://FreBe0903.github.io)
+[Visit my portfolio](https://frebe0903.github.io/Portfolio/)
 
 ---
 
